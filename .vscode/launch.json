@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/sataykanthkarravula/Desktop/ProblemSolving_August-2-2024/CodeChef_Problems",
+      "program": "/Users/sataykanthkarravula/Desktop/ProblemSolving_August-2-2024/CodeChef_Problems/build/Debug/outDebug"
+    }
+  ]
+}
